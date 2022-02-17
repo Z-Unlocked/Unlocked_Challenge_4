@@ -2,13 +2,13 @@
 Z by HP Unlocked Challenge 4 - Image Classification. Watch the tutorial video here: https://youtu.be/KsEFs9uRk74
 
 ## The Task
-The challenge is to build a machine learning model to classify images of "La Eterna". This can be done in a variety of ways. For this tutorial we will be fousing on building an image classification using artificial neural nets (ANN). 
+The challenge is to build a machine learning model to classify images of "La Eterna". This can be done in a variety of ways. For this tutorial we will be focusing on building an image classification using artificial neural nets (ANN). 
 
 ## What is Unlocked?
-Unlocked is an action-packed interactive film made for data scientists. Sharpen your skills and solve the data driven mystery here: https://www.hp.com/us-en/workstations/industries/data-science/unlocked-challenge.html
+Unlocked is an action-packed interactive film made bt Z by HP for data scientists. Sharpen your skills and solve the data driven mystery here: https://www.hp.com/us-en/workstations/industries/data-science/unlocked-challenge.html
 
 ## The Data 
-The data is split into a training and a submisison set. The repo includes two labeled folders in the Test folder. The folder labeled "la_eterna" includes the pictures of la eterna that Eva captured. The other folder labeled "other_flowers" includes pictures of other flowers that are not la eterna. We will use this data to build our classifier. Each of the images has been formatted to the dimensions (224,224, 3) for the analysis. 
+The data is split into a training and a submission set. The repo includes two labeled folders in the Test folder. The folder labeled "la_eterna" includes the pictures of la eterna that Eva captured. The other folder labeled "other_flowers" includes pictures of other flowers that are not la eterna. We will use this data to build our classifier. Each of the images has been formatted to the dimensions (224,224, 3) for the analysis. 
 
 ## Where to Start
 We have provided some starter code and a full tutorial video on how to approach this problem. All the models that we built can be tweaked and improved upon. 
